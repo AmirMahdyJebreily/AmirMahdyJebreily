@@ -1,5 +1,5 @@
 ### Hi 👋
-#### I'm Amir JCS (Code Agha)  
+## I'm Amir JCS (Code Agha)  
 
 ☑️ A __.NET programmer__ that is __fullstack is web__ 💪  
 ☑️ I like Fortran language, I do interesting things with it  
@@ -8,6 +8,12 @@
 ☑️ C and C++ language like Fortran ❤️  
 ☑️ Programming instructor  
 ☑️ Love coffee ☕  
+
+## Take a look at my current projects 🧑‍💻
+ {{range recentRepos 2}}
+
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
 
 
 All my skills:
