@@ -10,7 +10,7 @@
 ☑️ Love coffee ☕  
 
 ## Take a look at my current projects 🧑‍💻
-- [[./todo-cli](https://github.com/AmirMahdyJebreily/Todo-CLI)] Todo CLI : A cross-platform CLI that manages daily tasks for you.
+- [./Todo-CLI](https://github.com/AmirMahdyJebreily/Todo-CLI) : A cross-platform CLI that manages daily tasks for you.
 
 
 ## All my skills:
