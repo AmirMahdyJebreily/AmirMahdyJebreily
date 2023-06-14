@@ -1,4 +1,4 @@
-### Hi there 👋W
+### Hi there 👋
 ## I'm Amir JCS (Code Agha)  
 
 ☑️ A __.NET programmer__ that is __fullstack is web__ 💪  
