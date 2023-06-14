@@ -29,3 +29,4 @@ All my skills:
   - and anouther AI libs ...
 
 
+#### 7 years programming
