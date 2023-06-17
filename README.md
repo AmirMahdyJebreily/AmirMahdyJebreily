@@ -10,7 +10,8 @@
 ☑️ Love coffee ☕  
 
 ## Take a look at my current projects 🧑‍💻
-- [Todo-CLI](https://github.com/AmirMahdyJebreily/Todo-CLI) : A cross-platform CLI that manages daily tasks for you.
+- [Todo-CLI](https://github.com/AmirMahdyJebreily/Todo-CLI) : a cross-platform CLI that manages daily tasks for you.
+- [Coda Agha Website](https://github.com/AmirMahdyJebreily/Code-agha-dot-com) : Front-end template for my personal resume and blog!
 
 
 ## All my skills:
