@@ -11,7 +11,7 @@
 
 ## Take a look at my current projects 🧑‍💻
 - [Todo-CLI](https://github.com/AmirMahdyJebreily/Todo-CLI) : a cross-platform CLI that manages daily tasks for you.
-- [Coda Agha Website](https://github.com/AmirMahdyJebreily/Code-agha-dot-com) : Front-end template for my personal resume and blog!
+- [Code Agha Website](https://github.com/AmirMahdyJebreily/Code-agha-dot-com) : Front-end template for my personal resume and blog!
 
 
 ## All my skills:
