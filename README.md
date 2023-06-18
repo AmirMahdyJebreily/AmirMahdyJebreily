@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Amir JCS (Code Agha)  
 
-☑️ A __.NET programmer__ that is __fullstack is web__ 💪  
+☑️ A __.NET programmer__ that is __fullstack in web__ 💪  
 ☑️ I like Fortran language, I do interesting things with it  
 ☑️ Love algorithms  
 ☑️ Love Mathematics in my code 🧑‍💻  
