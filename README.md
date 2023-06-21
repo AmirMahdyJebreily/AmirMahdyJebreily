@@ -14,6 +14,10 @@
 - [Code Agha Website](https://github.com/AmirMahdyJebreily/Code-agha-dot-com) : Front-end template for my personal resume and blog!
 
 
+## Take a look at my github gists 📑
+- [Conventional Commit Messages Persian translate](https://gist.github.com/AmirMahdyJebreily/fde9631a0d9362d55bb7545a51097b15) : A Persian translation of the original article [Conventional Commit Messages](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
+
+
 ## All my skills:
 - C# & dotnet
   - asp.net (mvc, api, razorpages)
