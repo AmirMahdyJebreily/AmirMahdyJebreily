@@ -17,6 +17,9 @@
 ## Take a look at my github gists 📑
 - [Conventional Commit Messages Persian translate](https://gist.github.com/AmirMahdyJebreily/fde9631a0d9362d55bb7545a51097b15) : A Persian translation of the original article [Conventional Commit Messages](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
 
+## Take a look at my practical repositories 🎯
+- [c-sharp-design-patterns-examples](https://github.com/AmirMahdyJebreily/c-sharp-design-patterns-examples) : The best examples of design patterns in C#
+
 
 ## All my skills:
 - C# & dotnet
