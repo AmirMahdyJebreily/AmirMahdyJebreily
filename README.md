@@ -20,6 +20,9 @@
 ## Take a look at my practical repositories 🎯
 - [c-sharp-design-patterns-examples](https://github.com/AmirMahdyJebreily/c-sharp-design-patterns-examples) : The best examples of design patterns in C#
 
+## Take a look at my previous projects 💻
+- [Bumoca](https://github.com/AmirMahdyJebreily/Bumoca-vue) : Free opensource Online business model canvas designer
+
 
 ## All my skills:
 - C# & dotnet
