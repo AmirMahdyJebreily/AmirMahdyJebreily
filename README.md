@@ -26,6 +26,8 @@
 
 
 ## All my skills:
+![Static Badge](https://img.shields.io/badge/C%23)
+
 - C# & dotnet
   - asp.net (mvc, api, razorpages)
   - blazor
