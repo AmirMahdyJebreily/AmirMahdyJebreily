@@ -5,10 +5,9 @@
 
 
 ☑️ A __.NET programmer__ that is __fullstack in web__ 💪  
-☑️ I like Fortran language, I do interesting things with it  
 ☑️ Love algorithms  
 ☑️ Love Mathematics in my code 🧑‍💻  
-☑️ C and C++ language like Fortran ❤️  
+☑️ I Love C and C++ language ❤️  
 ☑️ Programming instructor  
 ☑️ Love coffee ☕  
 
