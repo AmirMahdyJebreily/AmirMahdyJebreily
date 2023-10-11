@@ -29,8 +29,11 @@ I am Amir Mahdi Jabreily.  .NET programmer and developer.  Junior in artificial 
 
 ## Take a look at my current projects 🧑‍💻
 - [Todo-CLI](https://github.com/AmirMahdyJebreily/Todo-CLI) : a cross-platform CLI that manages daily tasks for you.
-- [Code Agha Website](https://github.com/AmirMahdyJebreily/Code-agha-dot-com) : Front-end template for my personal resume and blog!
+- [Console Pages .NET (Beta version)](https://github.com/AmirMahdyJebreily/console-pages-dot-net) : A lite weight library for create daynamic console applications in dotnet and outher frameworks...
 
+
+## Take a look to my Packages 📦
+- [Console Pages .NET On NuGet](https://www.nuget.org/packages/ConsolePages/) - [repo](https://github.com/AmirMahdyJebreily/console-pages-dot-net) : A lite weight library for create daynamic console applications in dotnet and outher frameworks...
 
 ## Take a look at my github gists 📑
 - [Conventional Commit Messages Persian translate](https://gist.github.com/AmirMahdyJebreily/fde9631a0d9362d55bb7545a51097b15) : A Persian translation of the original article [Conventional Commit Messages](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
