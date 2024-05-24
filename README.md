@@ -39,6 +39,8 @@ I am Amir Mahdi Jabreily.  .NET programmer and developer.  Junior in artificial 
 - [Conventional Commit Messages Persian translate](https://gist.github.com/AmirMahdyJebreily/fde9631a0d9362d55bb7545a51097b15): A Persian translation of the original article [Conventional Commit Messages](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
 - [Euclidean algorithm for GCD](https://gist.github.com/AmirMahdyJebreily/2c0e7c05f642af18c3bd6d58a915bfdc): A one-line implementation of Euclid's algorithm for the greatest common denominator of numbers in C# and Python + full description
 
+I suggest you take a look at [my other gists](https://gist.github.com/AmirMahdyJebreily). I have put a lot of useful codes in C#, JavaScript and Python languages ​​with different and practical topics...
+
 ## Take a look at my practical repositories 🎯
 - [c-sharp-design-patterns-examples](https://github.com/AmirMahdyJebreily/c-sharp-design-patterns-examples): The best examples of design patterns in C#
 - [Iranian phone number validation](https://github.com/AmirMahdyJebreily/iranian-phonenumber-validation): Collection regexes for validate iranian phonenumbers
