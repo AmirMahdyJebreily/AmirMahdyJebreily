@@ -19,7 +19,8 @@
 
 
 ## Take a look at my current projects 🧑‍💻
-- [hili-cat](https://github.com/AmirMahdyJebreily/Simple-Command-Parser): A simple terminal command parser with a simple syntax in python based on regex
+- [hili-cat](https://github.com/AmirMahdyJebreily/hili-cat): A cat in linux but can highlight files with a BSD3 Licence
+
 
 ## Take a look to my Packages 📦
 - [Microphone Quality evaloution](https://www.npmjs.com/package/microphone-quality-evaloution): A Microphone quality evaloution with __Signal Processing__ algorithmes library
