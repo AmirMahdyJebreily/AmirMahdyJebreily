@@ -40,6 +40,7 @@ I suggest you take a look at [my other gists](https://gist.github.com/AmirMahdyJ
 ## Take a look at my previous projects 💻
 - [Minesweeper](https://github.com/AmirMahdyJebreily/MinesweeperGO): An implementation of minesweeper in terminals wrriten in __golang__ and built for windowx, ubuntu and mac and wasm to show how golang can run everywhere.
 - [Microphone Quality evaloution](https://github.com/AmirMahdyJebreily/Microphone-quality-evaloution): A Microphone quality evaloution with __Signal Processing__ algorithmes.
+- [Golang wasm test](https://github.com/AmirMahdyJebreily/WasmDegreeToRadians): A Degree to radians convertion with golang wasm
 - [Object delta](https://github.com/AmirMahdyJebreily/Ts-object-delta): Algorithms for patch an object in memory to Immutabilty like _rust_ in front-end ([See MIT Lectures](https://web.mit.edu/6.005/www/fa15/classes/09-immutability/))
 - [Simple Command Parser](https://github.com/AmirMahdyJebreily/Simple-Command-Parser): A simple terminal command parser with a simple syntax in python based on regex
 - [Console Pages .NET (Beta version)](https://github.com/AmirMahdyJebreily/console-pages-dot-net): A lite weight library for create daynamic console applications in dotnet and outher frameworks...
